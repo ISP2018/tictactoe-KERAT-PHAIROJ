@@ -1,4 +1,4 @@
-## Tic-Tac-Toe
+## Tic-Tac-Toe [![Build Status](https://travis-ci.com/KERAT-PHAIROJ/tictactoe.svg?branch=master)](https://travis-ci.com/KERAT-PHAIROJ/tictactoe)
 
 ### Description
 
